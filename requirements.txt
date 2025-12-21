@@ -1,0 +1,6 @@
+streamlit
+pandas
+joblib
+huggingface_hub
+scikit-learn
+plotly
